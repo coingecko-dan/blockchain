@@ -59,10 +59,6 @@ module ABI
 end    ## module ABI
 
 
-################
-## add convenience alternate spellings - why? why not?
-Abi = ABI
-
 
 
 puts ABICoder.banner   ## say hello
